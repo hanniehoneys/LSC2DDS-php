@@ -1,6 +1,6 @@
 # LSCtoDDS-withPHP
 
-adalah tools yang berguna untuk mengkonvert file extension .lsc (dari game lostsaga) lalu diconvert ke dalam file ext .DDS
+adalah tools yang berguna untuk meng-convert file extension .lsc (dari game lostsaga) lalu di-convert ke dalam file ext .DDS
 
 ## Installation
 
